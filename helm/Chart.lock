@@ -1,0 +1,6 @@
+dependencies:
+- name: readarr
+  repository: https://k8s-at-home.com/charts/
+  version: 6.4.2
+digest: sha256:ee88ff716fb76669fa37c869da3400b8a4f8280c6bbb3ec5e1d6151c70b96403
+generated: "2024-07-11T11:26:53.256585803-04:00"

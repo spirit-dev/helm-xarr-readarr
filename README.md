@@ -1,5 +1,7 @@
 # Welcome to readarr
 
+[![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=readarr-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/readarr-turingpi)
+
 ## Table of content
 
 - [Welcome to readarr](#welcome-to-readarr)

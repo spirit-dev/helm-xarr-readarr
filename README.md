@@ -1,10 +1,14 @@
-# Welcome to readarr
+# readarr
 
+[![GitLab Sync](https://img.shields.io/badge/gitlab_sync-readarr-blue?style=for-the-badge&logo=gitlab)](https://gitlab-internal.spirit-dev.net/github-mirror/helm-xarr-readarr) <!-- markdownlint-disable MD041 -->
+[![GitHub Mirror](https://img.shields.io/badge/github_mirror-readarr-blue?style=for-the-badge&logo=github)](https://github.com/spirit-dev/helm-xarr-readarr)
 [![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=readarr-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/readarr-turingpi)
 
-## Table of content
+<!--TOC-->
 
-[[_TOC_]]
+- [Installation process](#installation-process)
+
+<!--TOC-->
 
 ## Installation process
 

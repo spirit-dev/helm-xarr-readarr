@@ -10,7 +10,7 @@ readarr:
     # -- image repository
     repository: ghcr.io/k8s-at-home/readarr
     # -- image tag
-    tag: v0.1.0.715
+    tag: v0.1.1.1352
     # -- image pull policy
     pullPolicy: IfNotPresent
 
